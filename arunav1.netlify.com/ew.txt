@@ -1,0 +1,5 @@
+<div class="bar-flex">
+ <div class="bar fill" style="width:80%">
+  <div class="tag bold flex"> Javascript </div>
+ </div>
+</div>
